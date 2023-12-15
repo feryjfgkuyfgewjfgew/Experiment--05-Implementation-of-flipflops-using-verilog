@@ -107,27 +107,28 @@ Q(t+1)=T′Q(t)+TQ(t)′
 
 
 ### PROGRAM 
-/*
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: NARESH.R
 RegisterNumber:  23005559
-*/
+```
 
 ###SR FLIPFLOPS
 
-![Alt text](<Screenshot 2023-12-14 164741.png>)
+![Screenshot 2023-12-14 164741](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/cb757532-6512-4c8c-8cb8-63115c687c60)
+
 
 ###D FLIPFLOP
 
-![Alt text](<Screenshot 2023-12-14 164753.png>)
+![Screenshot 2023-12-14 164753](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/a54a1d41-5049-44ad-b251-279bd7ea1456)
 
 ###JK FLIPFLOP
 
-![Alt text](<Screenshot 2023-12-14 164801.png>)
+![Screenshot 2023-12-14 164801](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/a037bcac-d185-43f9-b0d5-bf5b5792d8e0)
 
 ###T FLIPFLOP
 
-![Alt text](<Screenshot 2023-12-14 164808.png>)
+![Screenshot 2023-12-14 164808](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/22ca95c2-8843-435e-b10f-0c05755b240c)
 
 
 
@@ -136,44 +137,59 @@ RegisterNumber:  23005559
 
 ###SR FLIPFLOPS
 
-![Alt text](<Screenshot 2023-12-14 164819.png>)
+![Screenshot 2023-12-14 164819](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/a6a0c418-4553-487f-9e9b-f32ba8f54d2d)
 
 ###D FLIPFLOP
 
-![Alt text](<Screenshot 2023-12-14 164825.png>)
-
+![Screenshot 2023-12-14 164825](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/dd03a466-59e6-42aa-ac4d-04d07a02fd2d)
 
 ###JK FLIPFLOP
 
-![Alt text](<Screenshot 2023-12-14 164832.png>)
+![Screenshot 2023-12-14 164832](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/11740283-30fd-4542-aeab-586cd0dee001)
 
 ###T FLIPFLOP
 
-![Alt text](<Screenshot 2023-12-14 164846.png>)
+![Screenshot 2023-12-14 164846](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/b6756c9c-489a-4d3f-aad3-04b38b3fa536)
 
 
 ### TRUTH TABLE
 
 
 ###SR FLIPFLOPS
-![Alt text](<Screenshot 2023-12-14 164959.png>)
+
+![Screenshot 2023-12-14 164959](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/b3b66e6f-5cb6-4157-8505-10aceb55f171)
+
 ###D FLIPFLOP
-![Alt text](<Screenshot 2023-12-14 165018.png>)
+
+![Screenshot 2023-12-14 165018](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/632221d8-0aab-467a-bd9b-66e0e6fb4124)
+
 ###JK FLIPFLOP
-![Alt text](<Screenshot 2023-12-14 165026.png>)
+
+![Screenshot 2023-12-14 165026](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/1df44ae5-8e31-4263-b4ec-77fa8e7e0306)
+
+
 ###T FLIPFLOP
-![Alt text](<Screenshot 2023-12-14 165036.png>)
+
+![Screenshot 2023-12-14 165036](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/6528b4ab-661f-43d7-b574-fc6e60f16fc8)
+
+
 ### TIMING FIAGRAM
 
 ###SR FLIPFLOPS
-![Alt text](<Screenshot 2023-12-14 164910-1.png>)
+
+![Screenshot 2023-12-14 164910](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/10450d4b-b0d7-48c8-8461-1c6f22e5242f)
 
 ###D FLIPFLOP
-![Alt text](<Screenshot 2023-12-14 164922-1.png>)
+
+![Screenshot 2023-12-14 164922](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/6b3d1c0d-6f07-4072-8584-dde5f61c4ed9)
 
 ###JK FLIPFLOP
-![Alt text](<Screenshot 2023-12-14 164934 - Copy.png>)
+
+![Screenshot 2023-12-14 164934 - Copy](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/0ca8a567-ba52-4382-b68c-44cda3b5c7af)
 
 ###T FLIPFLOP
-![Alt text](<Screenshot 2023-12-14 164945.png>)
+
+![Screenshot 2023-12-14 164945](https://github.com/feryjfgkuyfgewjfgew/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150319377/0866d51b-cd76-456c-883d-e0c4095bea70)
+
+
 ### RESULTS 
