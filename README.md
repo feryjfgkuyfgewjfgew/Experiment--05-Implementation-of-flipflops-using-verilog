@@ -109,32 +109,71 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NARESH.R
+RegisterNumber:  23005559
 */
 
+###SR FLIPFLOPS
 
+![Alt text](<Screenshot 2023-12-14 164741.png>)
 
+###D FLIPFLOP
+
+![Alt text](<Screenshot 2023-12-14 164753.png>)
+
+###JK FLIPFLOP
+
+![Alt text](<Screenshot 2023-12-14 164801.png>)
+
+###T FLIPFLOP
+
+![Alt text](<Screenshot 2023-12-14 164808.png>)
 
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
 
 
+###SR FLIPFLOPS
+
+![Alt text](<Screenshot 2023-12-14 164819.png>)
+
+###D FLIPFLOP
+
+![Alt text](<Screenshot 2023-12-14 164825.png>)
 
 
+###JK FLIPFLOP
+
+![Alt text](<Screenshot 2023-12-14 164832.png>)
+
+###T FLIPFLOP
+
+![Alt text](<Screenshot 2023-12-14 164846.png>)
 
 
+### TRUTH TABLE
 
 
+###SR FLIPFLOPS
+![Alt text](<Screenshot 2023-12-14 164959.png>)
+###D FLIPFLOP
+![Alt text](<Screenshot 2023-12-14 165018.png>)
+###JK FLIPFLOP
+![Alt text](<Screenshot 2023-12-14 165026.png>)
+###T FLIPFLOP
+![Alt text](<Screenshot 2023-12-14 165036.png>)
+### TIMING FIAGRAM
 
-### TIMING DIGRAMS FOR FLIP FLOPS 
+###SR FLIPFLOPS
+![Alt text](<Screenshot 2023-12-14 164910-1.png>)
 
+###D FLIPFLOP
+![Alt text](<Screenshot 2023-12-14 164922-1.png>)
 
+###JK FLIPFLOP
+![Alt text](<Screenshot 2023-12-14 164934 - Copy.png>)
 
-
-
-
-
-
+###T FLIPFLOP
+![Alt text](<Screenshot 2023-12-14 164945.png>)
 ### RESULTS 
